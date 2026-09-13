@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 100" role="img" aria-label="Flagship Techs">
+  <defs>
+    <linearGradient id="ft-arm" x1="10" y1="42" x2="80" y2="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333437"/>
+      <stop offset="1" stop-color="#4E5054"/>
+    </linearGradient>
+    <linearGradient id="ft-spine" x1="1" y1="50" x2="27" y2="99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2A2B2E"/>
+      <stop offset="1" stop-color="#3E4044"/>
+    </linearGradient>
+    <linearGradient id="ft-mid" x1="17" y1="63" x2="70" y2="37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3A3C40"/>
+      <stop offset="1" stop-color="#515358"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ft-arm)" d="M83 0 L13.2 25.6 C6.6 28 .5 31.6 .5 38.6 L.5 46.2 L75 19.2 C79.7 17.5 83 14 83 9 Z"/>
+  <path fill="url(#ft-spine)" d="M.5 46.2 L26.5 63.1 L26.5 99.5 L4.3 85.1 C2.2 83.7 .5 80.6 .5 78.1 Z"/>
+  <path fill="url(#ft-mid)" d="M70 35 L20.6 52.9 C16.4 54.4 14.5 57 15.9 59.2 L26.5 65.5 L62.9 52.3 C67.4 50.6 70 47.2 70 42.7 Z"/>
+</svg>
